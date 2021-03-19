@@ -1,0 +1,9 @@
+requests
+pandas
+pyarrow
+numpy
+datetime
+matplotlib
+azure.storage.blob
+azure.functions
+pygrib
